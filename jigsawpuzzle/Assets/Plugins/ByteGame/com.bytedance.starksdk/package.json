@@ -1,0 +1,28 @@
+{
+    "displayName": "TTSDK",
+    "name": "com.bytedance.starksdk",
+    "version": "6.0.8",
+        "description": "TTSDK Plugin",
+    "keywords": [],
+    "category": "Libraries",
+    "links": [
+        {
+            "label": "接口文档",
+            "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/sc_stark_sdk"
+        },
+        {
+            "label": "SDK发布记录",
+            "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/sc_changelog"
+        },
+        {
+            "label": "旧版StarkSdk API迁移TTSDK API说明",
+            "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/starksdk-migration-guide"
+        },
+        {
+            "label": "TTSDK API 升级工具使用说明",
+            "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/unity-game-access/ttsdk-api-upgrade-guide"
+        }
+    ],
+        "unitySinceBuild": "*",
+    "unityUntilBuild": "*"
+}

@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\TestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|d:\\unity\\testproject\\assets\\_jigsawpuzzle_kit\\_systemscripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|solutionrelative:assets\\_jigsawpuzzle_kit\\_systemscripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08040F8A-BE5E-F84B-7CE2-9F08EB1167BF}|Assembly-CSharp-Editor.csproj|D:\\Unity\\TestProject\\assets\\_jigsawpuzzle_kit\\_systemscripts\\editor\\gamecontroller_inspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08040F8A-BE5E-F84B-7CE2-9F08EB1167BF}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\_jigsawpuzzle_kit\\_systemscripts\\editor\\gamecontroller_inspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|D:\\Unity\\TestProject\\assets\\_jigsawpuzzle_kit\\_systemscripts\\utility\\simpledialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|solutionrelative:assets\\_jigsawpuzzle_kit\\_systemscripts\\utility\\simpledialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ADManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T05:28:29.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController_Inspector.cs",
+              "DocumentMoniker": "D:\\Unity\\TestProject\\Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\Editor\\GameController_Inspector.cs",
+              "RelativeDocumentMoniker": "Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\Editor\\GameController_Inspector.cs",
+              "ToolTip": "D:\\Unity\\TestProject\\Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\Editor\\GameController_Inspector.cs",
+              "RelativeToolTip": "Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\Editor\\GameController_Inspector.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAFwAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:26:05.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\Unity\\TestProject\\Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\GameController.cs",
+              "ToolTip": "D:\\Unity\\TestProject\\Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\GameController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAqwIAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:21:41.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleDialog.cs",
+              "DocumentMoniker": "D:\\Unity\\TestProject\\Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\Utility\\SimpleDialog.cs",
+              "RelativeDocumentMoniker": "Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\Utility\\SimpleDialog.cs",
+              "ToolTip": "D:\\Unity\\TestProject\\Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\Utility\\SimpleDialog.cs",
+              "RelativeToolTip": "Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\Utility\\SimpleDialog.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:39:12.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
