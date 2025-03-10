@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 1315287583, guid: 76741459812cc496eb3634fdc0e9cc80, type: 3}
   m_Name: StarkBuilderSetting
   m_EditorClassIdentifier: 
-  wasmResourceUrl: 
-  webGLOutputDir: 
+  wasmResourceUrl: http://
+  webGLOutputDir: "D:/Unity/\u62FC\u56FE\u6311\u6218\u8005/jigsawpuzzle/Game"
   useByteAudioAPI: 0
   wasmMemorySize: 128
-  isWebGL2: 0
+  isWebGL2: 1
   needCompress: 1
   symbolMode: 1
   profiling: 0
@@ -34,19 +34,19 @@ MonoBehaviour:
   appHost: 2
   compressMethod: 1
   runtimeEnv: 0
-  framework: 0
+  framework: 1
   architecture: 2
   miniApkVersion: 0
   scriptingBackend: 0
   NativeWhiteListRegex:
   - com.bytedance.starksdk
   - _Backup~
-  a: 
+  a: tt4387353adc8d833607
   version: 
   autoVersion: 0
-  b: 
+  b: "D:\\Unity\\\u62FC\u56FE\u6311\u6218\u8005\\jigsawpuzzle\\Game\\webgl_package-20250308_152712.zip"
   c: 0
   d: 0
   e: 0
   publishDesc: 
-  idePath: 
+  idePath: "D:/ByteGame/@bytedminiprogram-ide/\u6296\u97F3\u5F00\u53D1\u8005\u5DE5\u5177.exe"

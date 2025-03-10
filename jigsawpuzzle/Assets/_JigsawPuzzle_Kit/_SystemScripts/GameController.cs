@@ -171,10 +171,25 @@ public class GameController : MonoBehaviour
         }
 
     }
-
-	//-----------------------------------------------------------------------------------------------------	
-	// Main game cycle
-	void Update () 
+    /// <summary>
+    /// 播放插屏广告
+    /// </summary>
+    /// <param name="adId"></param>
+    /// <param name="errorCallBack"></param>
+    /// <param name="closeCallBack"></param>
+    public void ShowInterstitialAd(string adId, System.Action closeCallBack, System.Action<int, string> errorCallBack)
+    {
+        starkAdManager = StarkSDK.API.GetStarkAdManager();
+        if (starkAdManager != null)
+        {
+            var mInterstitialAd = starkAdManager.CreateInterstitialAd(adId, errorCallBack, closeCallBack);
+            mInterstitialAd.Load();
+            mInterstitialAd.Show();
+        }
+    }
+    //-----------------------------------------------------------------------------------------------------	
+    // Main game cycle
+    void Update () 
 	{
 		if (Input.GetKeyUp(KeyCode.Escape)) 
 			Pause ();
@@ -216,6 +231,7 @@ public class GameController : MonoBehaviour
 					
 					if (winUI) 
 						winUI.SetActive(true);
+
 					
 					PlayMusic(musicWin, false);
 					gameFinished = true;
@@ -482,7 +498,7 @@ public class GameController : MonoBehaviour
 	{
         //if (gameFinished  ||  remainingHints == 0)  return;
         // else
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("dd0h6i0f7e8i1ii1d0",
             (bol) => {
                 if (bol)
                 {
@@ -646,8 +662,16 @@ public class GameController : MonoBehaviour
 	{
 		Time.timeScale = 1.0f;
 		SceneManager.LoadScene (_levelId);
+        ShowInterstitialAd("58im6b3v7or91m1fmg",
+            () => {
+                Debug.LogError("--插屏广告完成--");
 
-	}
+            },
+            (it, str) => {
+                Debug.LogError("Error->" + str);
+            });
+
+    }
 
 	//-----------------------------------------------------------------------------------------------------	
 	// Load MusicPlayer and SoundPlayer Activity 

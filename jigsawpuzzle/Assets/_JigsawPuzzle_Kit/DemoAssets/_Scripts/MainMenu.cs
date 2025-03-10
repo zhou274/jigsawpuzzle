@@ -20,6 +20,7 @@ public class MainMenu : MonoBehaviour
 	public AudioClip soundDialog;
 	public Toggle musicToggleUI;
 	public Toggle soundToggleUI;
+	public GameObject Cebianlan;
 
 
 
@@ -48,7 +49,10 @@ public class MainMenu : MonoBehaviour
 		SceneManager.LoadScene(_levelId);
 
 	}
-
+	public void SetCebianlan()
+	{
+		Cebianlan.SetActive(true);
+	}
 	//-----------------------------------------------------------------------------------------------------	
 	// Load MusicPlayer and SoundPlayer Activity 
 	void LoadAudioActivity () 
