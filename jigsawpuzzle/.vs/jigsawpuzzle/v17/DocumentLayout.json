@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "D:\\Unity\\\u62FC\u56FE\u6311\u6218\u8005\\jigsawpuzzle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD50CD9A-6C93-7B69-09E8-D60278D1E6C7}|Assembly-CSharp.csproj|d:\\unity\\\u62FC\u56FE\u6311\u6218\u8005\\jigsawpuzzle\\assets\\_jigsawpuzzle_kit\\demoassets\\_scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD50CD9A-6C93-7B69-09E8-D60278D1E6C7}|Assembly-CSharp.csproj|D:\\Unity\\\u62FC\u56FE\u6311\u6218\u8005\\jigsawpuzzle\\assets\\_jigsawpuzzle_kit\\demoassets\\_scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD50CD9A-6C93-7B69-09E8-D60278D1E6C7}|Assembly-CSharp.csproj|solutionrelative:assets\\_jigsawpuzzle_kit\\demoassets\\_scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\\u5E38\u7528\u811A\u672C\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD50CD9A-6C93-7B69-09E8-D60278D1E6C7}|Assembly-CSharp.csproj|D:\\Unity\\\u62FC\u56FE\u6311\u6218\u8005\\jigsawpuzzle\\assets\\_jigsawpuzzle_kit\\_systemscripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD50CD9A-6C93-7B69-09E8-D60278D1E6C7}|Assembly-CSharp.csproj|solutionrelative:assets\\_jigsawpuzzle_kit\\_systemscripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD50CD9A-6C93-7B69-09E8-D60278D1E6C7}|Assembly-CSharp.csproj|d:\\unity\\\u62FC\u56FE\u6311\u6218\u8005\\jigsawpuzzle\\assets\\_jigsawpuzzle_kit\\initad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD50CD9A-6C93-7B69-09E8-D60278D1E6C7}|Assembly-CSharp.csproj|solutionrelative:assets\\_jigsawpuzzle_kit\\initad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\\u5E38\u7528\u811A\u672C\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD50CD9A-6C93-7B69-09E8-D60278D1E6C7}|Assembly-CSharp.csproj|D:\\Unity\\\u62FC\u56FE\u6311\u6218\u8005\\jigsawpuzzle\\assets\\_jigsawpuzzle_kit\\_systemscripts\\utility\\simpledialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,11 +33,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "InitAd.cs",
+              "DocumentMoniker": "D:\\Unity\\\u62FC\u56FE\u6311\u6218\u8005\\jigsawpuzzle\\Assets\\_JigsawPuzzle_Kit\\InitAd.cs",
+              "RelativeDocumentMoniker": "Assets\\_JigsawPuzzle_Kit\\InitAd.cs",
+              "ToolTip": "D:\\Unity\\\u62FC\u56FE\u6311\u6218\u8005\\jigsawpuzzle\\Assets\\_JigsawPuzzle_Kit\\InitAd.cs",
+              "RelativeToolTip": "Assets\\_JigsawPuzzle_Kit\\InitAd.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:15:04.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "D:\\Unity\\\u62FC\u56FE\u6311\u6218\u8005\\jigsawpuzzle\\Assets\\_JigsawPuzzle_Kit\\DemoAssets\\_Scripts\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\_JigsawPuzzle_Kit\\DemoAssets\\_Scripts\\MainMenu.cs",
@@ -41,12 +58,11 @@
               "RelativeToolTip": "Assets\\_JigsawPuzzle_Kit\\DemoAssets\\_Scripts\\MainMenu.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAAwDUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T07:00:14.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T07:00:14.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SimpleDialog.cs",
               "DocumentMoniker": "D:\\Unity\\\u62FC\u56FE\u6311\u6218\u8005\\jigsawpuzzle\\Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\Utility\\SimpleDialog.cs",
               "RelativeDocumentMoniker": "Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\Utility\\SimpleDialog.cs",
@@ -54,29 +70,27 @@
               "RelativeToolTip": "Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\Utility\\SimpleDialog.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAADwv4kAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T06:15:57.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T06:15:57.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Ball.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u5E38\u7528\u811A\u672C\\Ball.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u5E38\u7528\u811A\u672C\\Ball.cs",
               "ViewState": "AgIAADYAAAAAAAAAAADwv10AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T06:12:56.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T06:12:56.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GameController.cs",
               "DocumentMoniker": "D:\\Unity\\\u62FC\u56FE\u6311\u6218\u8005\\jigsawpuzzle\\Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\GameController.cs",
               "RelativeDocumentMoniker": "Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\GameController.cs",
               "ToolTip": "D:\\Unity\\\u62FC\u56FE\u6311\u6218\u8005\\jigsawpuzzle\\Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\GameController.cs",
               "RelativeToolTip": "Assets\\_JigsawPuzzle_Kit\\_SystemScripts\\GameController.cs",
-              "ViewState": "AgIAAEcCAAAAAAAAAAAqwJsCAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAOgBAAAAAAAAAAAhwPQBAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T06:09:56.362Z",
               "EditorCaption": ""
@@ -89,7 +103,7 @@
               "RelativeDocumentMoniker": "Assets\\_JigsawPuzzle_Kit\\DemoAssets\\_Scripts\\CebianlanManager.cs",
               "ToolTip": "D:\\Unity\\\u62FC\u56FE\u6311\u6218\u8005\\jigsawpuzzle\\Assets\\_JigsawPuzzle_Kit\\DemoAssets\\_Scripts\\CebianlanManager.cs",
               "RelativeToolTip": "Assets\\_JigsawPuzzle_Kit\\DemoAssets\\_Scripts\\CebianlanManager.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvxMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T06:07:56.442Z",
               "EditorCaption": ""

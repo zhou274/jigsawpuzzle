@@ -17,15 +17,7 @@ public class CebianlanManager : MonoBehaviour
     {
 
 
-        clickid = "";
-
-
-        getClickid();
-
-
-        Debug.Log("<-clickid-> " + clickid);
-
-        apiSend("active", clickid);
+        
 
         showGridGame();
 

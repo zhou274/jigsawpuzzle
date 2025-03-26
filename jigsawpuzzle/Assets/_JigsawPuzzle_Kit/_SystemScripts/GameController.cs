@@ -566,7 +566,15 @@ public class GameController : MonoBehaviour
             Cursor.lockState = CursorLockMode.None;
             if (pauseUI) 
 				pauseUI.SetActive(true);
-		}
+            ShowInterstitialAd("58im6b3v7or91m1fmg",
+            () => {
+                Debug.LogError("--插屏广告完成--");
+
+            },
+            (it, str) => {
+                Debug.LogError("Error->" + str);
+            });
+        }
 		else  
 		{
 			Time.timeScale = 1;
@@ -662,14 +670,7 @@ public class GameController : MonoBehaviour
 	{
 		Time.timeScale = 1.0f;
 		SceneManager.LoadScene (_levelId);
-        ShowInterstitialAd("58im6b3v7or91m1fmg",
-            () => {
-                Debug.LogError("--插屏广告完成--");
-
-            },
-            (it, str) => {
-                Debug.LogError("Error->" + str);
-            });
+        
 
     }
 
